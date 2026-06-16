@@ -1,9 +1,11 @@
+<!-- Profile README for github.com/ValarMorghulis09 -->
+
 <p align="center">
   <img src="https://images.weserv.nl/?url=github.com/ValarMorghulis09.png&w=170&h=170&fit=cover&mask=circle" width="150" alt="Ahmed ElSayed" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:284b63,50:3c6e71,100:353535&height=180&section=header&text=Ahmed%20ElSayed&fontColor=ffffff&fontSize=48&fontAlignY=40&desc=Software%20Engineer%20%26%20Technical%20Lead&descSize=20&descAlignY=64&descAlign=50" alt="Ahmed ElSayed" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:284b63,50:3c6e71,100:353535&height=180&section=header&text=Ahmed%20ElSayed&fontColor=ffffff&fontSize=48&fontAlignY=40&desc=Software%20Engineer%20and%20Technical%20Lead&descSize=20&descAlignY=64&descAlign=50" alt="Ahmed ElSayed" />
 </p>
 
 <p align="center">
